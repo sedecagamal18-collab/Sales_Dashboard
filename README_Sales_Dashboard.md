@@ -70,7 +70,7 @@ Organized the Pivot Tables into a single interactive dashboard containing:
 
 ## Dashboard Preview
 
-![Super Store Dashboard](Sales_Dashboard.jpg)
+[Super Store Dashboard](Sales_Dashboard.jpg)
 
 ## Key Findings
 
@@ -113,10 +113,10 @@ This project demonstrates how Excel can be used to:
 
 ## Project Files
 
-- `Sales_dataset.xlsx` — Original dataset (Orders, Return, People sheets).
-- `Shipping_Cost.xlsx` — Shipping cost per unit by state.
-- `Sales_Dashboard.xlsx` — Excel workbook containing the cleaned data, Pivot Tables (`pv` sheet), and the completed dashboard.
-- `Sales_Dashboard.jpg` — Image of the final dashboard.
+- Sales_dataset.xlsx — Original dataset (Orders, Return, People sheets).
+- Shipping_Cost.xlsx — Shipping cost per unit by state.
+- Sales_Dashboard.xlsx — Excel workbook containing the cleaned data, Pivot Tables (`pv` sheet), and the completed dashboard.
+- Sales_Dashboard.jpg — Image of the final dashboard.
 
 ## Conclusion
 
