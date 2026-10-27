@@ -70,7 +70,7 @@ Organized the Pivot Tables into a single interactive dashboard containing:
 
 ## Dashboard Preview
 
-+[Super Store Dashboard](Sales_Dashboard.jpg)
++ +[Super Store Dashboard](Sales_Dashboard.jpg)
 
 ## Key Findings
 
