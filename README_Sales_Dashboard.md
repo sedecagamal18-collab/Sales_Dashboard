@@ -70,7 +70,7 @@ Organized the Pivot Tables into a single interactive dashboard containing:
 
 ## Dashboard Preview
 
-+ +[Super Store Dashboard](Sales_Dashboard.jpg)
++ +[Super Store Dashboard][(Sales_Dashboard.jpg)](https://github.com/sedecagamal18-collab/Sales_Dashboard/blob/a35a6ac6a20574fc39357ae458278dbd1d702155/Sales%20Dashboard.jpg)
 
 ## Key Findings
 
